@@ -1,12 +1,12 @@
 import React, { useState/*, useEffect*/ } from 'react';   
 
-import Paper from "../components/paper/PaperClass";
+import Paper from "../components/paper/Paper";
 
-import Header from "../components/header/classHeader";
+import Header from "../components/header/HeaderNoJsx";
 
-import TodoForm from "../components/todoform/todoformClass";
+import TodoForm from "../components/todoform/TodoForm";
 
-import Todos from "../components/todos/todosClass";
+import Todos from "../components/todos/Todos";
 
 import useStateWithLocalStorage from "../hooks/useStateWithLocalStorage";
 

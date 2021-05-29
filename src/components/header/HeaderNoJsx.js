@@ -6,7 +6,7 @@ import { useTheme } from "emotion-theming";
 
 import * as styles from "./header.styles";
 
-import Button from "../button/ButtonNoJsx";
+import Button from "../button/ButtonClass";
 
 import Container from "../../layout/Container";
 

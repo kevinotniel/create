@@ -1,8 +1,8 @@
 import React from "react";
-import Paper from "../components/paper/PaperClass";
-import Header from "../components/header/classHeader";
-import TodoForm from "../components/todoform/todoformClass";
-import Todos from "../components/todos/todosClass";
+import Paper from "../components/paper/Paper";
+import Header from "../components/header/HeaderNoJsx";
+import TodoForm from "../components/todoform/TodoForm";
+import Todos from "../components/todos/Todos";
 
 import Container from "../layout/Container";
 
